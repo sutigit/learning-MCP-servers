@@ -8,7 +8,9 @@
   "scripts": {
     "build": "tsc && node -e \"require('fs').chmodSync('build/index.js', '755')\""
   },
-  "files": ["build"],
+  "files": [
+    "build"
+  ],
   "dependencies": {
     "@modelcontextprotocol/server": "^2.4.0",
     "zod": "^4.6.7"
