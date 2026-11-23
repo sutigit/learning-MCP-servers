@@ -3,6 +3,8 @@
 Follow the [build-server guide](https://modelcontextprotocol.io/docs/2026-07-28/develop/build-server)
 and write the server code yourself in `typescript/src/index.ts` and `python/weather.py`.
 
+Short learning notes live in [`NOTES/`](NOTES/README.md).
+
 ## TypeScript
 
 Prerequisite: Node.js 20 or higher.
